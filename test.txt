@@ -1,5 +1,4 @@
 test123456
 modified again
 try more
-again
-merge dev
+fixed bug
